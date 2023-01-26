@@ -1,0 +1,27 @@
+body{
+    background-color: chocolate;
+}
+
+section{
+    background-color: white;
+    width: 500px;
+    height: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 7px;
+    padding-left: 25px;
+    padding-top: 35px;
+    font-size: 20px;
+    text-align: left;
+}
+
+input{
+    margin-bottom: 25px;
+}
+
+header, footer{
+    text-align: center;
+    margin-top: 50px;
+    color: white;
+    font-family: Roboto;
+}
